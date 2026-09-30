@@ -1,2 +1,0 @@
-username = kishan2610
-password= kishankp2213
