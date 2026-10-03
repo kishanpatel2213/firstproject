@@ -1,5 +1,5 @@
-hello world !!!
+
 take input form user 
 add the values
 
-submit data to database
+create a avatar for user
